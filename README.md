@@ -50,13 +50,6 @@ This repository contains my completed coursework for **CSE440 – Natural Langua
    # jupyter notebook
    ```
 
-### Colab
-
-Prefer running in the cloud? Use the Colab badge below.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nihal-kabir/CSE440‑NLP‑Fall-24/blob/main/440_assignment_1.ipynb)
-
----
 
 ## Environment
 
